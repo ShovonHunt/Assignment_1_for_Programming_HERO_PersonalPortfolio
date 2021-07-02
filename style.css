@@ -1,0 +1,136 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+section {
+  height: 600px;
+  padding-bottom: 400px;
+}
+.project {
+  background-color: lightblue;
+}
+p,
+a {
+  font-size: 15px;
+  font-weight: 40px;
+  font-family: "Roboto", sans-serif;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Bebas Neue", cursive;
+}
+
+h1 {
+  font-size: 90px;
+  font-weight: 200;
+  color: #363958;
+}
+h2 {
+  font-size: 60px;
+  font-weight: 200;
+  color: #363958;
+}
+h3 {
+  font-size: 25px;
+  font-weight: 200;
+  color: #363958;
+}
+h4 {
+  font-size: 30px;
+  color: gray;
+  font-weight: 200;
+}
+.text {
+  padding-top: 400px;
+}
+.image {
+  padding-top: 200px;
+}
+.highlight {
+  color: #ff8367;
+}
+.link-button {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+img {
+  width: 100%;
+}
+.project h2 {
+  text-align: center;
+  padding-top: 100px;
+}
+.project_img {
+  width: 25%;
+  float: left;
+  box-shadow: 5px 5px 5px gray;
+  padding: 1%;
+  border-radius: 10px;
+  background-color: white;
+}
+.project img {
+  width: 100%;
+}
+.left {
+  margin-left: 7%;
+}
+.right {
+  margin-left: 2%;
+}
+.parent {
+  background-image: url(./images/Group_33094_1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 250px;
+  margin: 5rem 25rem;
+}
+.child {
+  width: 40%;
+  float: left;
+  padding-left: 7%;
+  color: white;
+}
+.child h1 {
+  color: white;
+}
+
+.two {
+  margin-top: 7rem;
+  float: right;
+}
+.one {
+  margin-top: 1rem;
+}
+footer {
+  text-align: center;
+}
+#hello {
+  font-weight: bold;
+  font-size: 40px;
+}
+.ic {
+  width: 50px;
+}
+
+nav {
+  float: right;
+  margin-top: 3rem;
+}
+
+.anav {
+  text-decoration: none;
+  padding-right: 150px;
+  font-size: 20px;
+}
